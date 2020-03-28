@@ -5,6 +5,9 @@
 # 每周分享菜单
 [00.Markdown语法入门](https://github.com/happyShareTeam/blog/blob/master/每周分享/00.Markdown语法入门.md)
 
+# 每周讨论
+[00.深挖项目中的亮点](https://github.com/happyShareTeam/blog/issues/1)
+
 
 # 满汉全席
 ## 优秀Blob推荐
